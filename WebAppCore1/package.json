@@ -1,0 +1,15 @@
+{
+  "name": "web-app-core1",
+  "version": "0.0.0",
+  "description": "WebAppCore1",
+  "main": "app.js",
+  "author": {
+    "name": "Kevin",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
